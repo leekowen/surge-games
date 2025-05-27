@@ -3,11 +3,11 @@
   "icons": [
     {
       "name": "MLBB决胜巅峰",
-      "url": "https://raw.githubusercontent.com/surge-games/icons/main/MLBB决胜巅峰_120.png"
+      "url": "https://raw.github.com/leekowen/surge-games/blob/main/icon/MLBB_120.png"
     },
     {
       "name": "Honor of Kings王者荣耀国际服",
-      "url": "https://raw.githubusercontent.com/surge-games/icons/main/Honor of Kings王者荣耀国际服_120.png"
+      "url": "https://raw.github.com/leekowen/surge-games/blob/main/icon/Honor of Kings王者荣耀国际服_120.png"
     }
   ]
 }
