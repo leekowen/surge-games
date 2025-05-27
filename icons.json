@@ -1,0 +1,13 @@
+{
+  "name": "icons.json",
+  "icons": [
+    {
+      "name": "MLBB决胜巅峰",
+      "url": "https://github.com/leekowen/surge-games/blob/e1d72c527e5dac2172291c7f4264dc8f516a8468/icon/Honor%20of%20Kings%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%9B%BD%E9%99%85%E6%9C%8D_120.png"
+    },
+    {
+      "name": "Honor of Kings王者荣耀国际服",
+      "url": "https://github.com/leekowen/surge-games/blob/e1d72c527e5dac2172291c7f4264dc8f516a8468/icon/MLBB%E5%86%B3%E8%83%9C%E5%B7%85%E5%B3%B0_120.png"
+    }
+  ]
+}
