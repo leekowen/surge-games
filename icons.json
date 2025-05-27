@@ -1,7 +1,7 @@
 {
     "name": "surge-games",
     "icons": [
-     { "Honor of Kings王者荣耀国际服": "Icon1", "url": "https://raw.githubusercontent.com/leekowen/surge-icons/main/Honor of Kings王者荣耀国际服_120.png"},
-     { "MLBB决胜巅峰": "Icon2", "url": "https://raw.githubusercontent.com/leekowen/surge-icons/main/MLBB决胜巅峰_120.png"},
+     { "Honor of Kings王者荣耀国际服": "Icon1", "url": "https://raw.githubusercontent.com/leekowen/surge-games/main/Honor of Kings王者荣耀国际服_120.png"},
+     { "MLBB决胜巅峰": "Icon2", "url": "https://raw.githubusercontent.com/leekowen/surge-games/main/MLBB决胜巅峰_120.png"},
     ]
 }
