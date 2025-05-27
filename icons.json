@@ -1,13 +1,7 @@
 {
   "name": "icons.json",
   "icons": [
-    {
-      "name": "MLBB_120",
-      "url": "https://raw.githubusercontent.com/leekowen/surge-games/blob/main/icon/MLBB_120.png"
-    },
-    {
-      "name": "Honor of Kings王者荣耀国际服_120",
-      "url": "https://raw.githubusercontent.com/leekowen/surge-games/blob/main/icon/Honor of Kings王者荣耀国际服_120.png"
-    }
+     {"name":"MLBB_120", "url":"https:\/\/raw.githubusercontent.com\/leekowen\/surge-games\/main\/icon\/MLBB_120.png"},
+     {"name":"Honor of Kings王者荣耀国际服_120", "url":"https:\/\/raw.githubusercontent.com\/leekowen\/surge-games\/main\/icon\/Honor of Kings王者荣耀国际服_120.png"},
   ]
 }
