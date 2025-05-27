@@ -2,11 +2,11 @@
   "name": "icons.json",
   "icons": [
     {
-      "name": "MLBB决胜巅峰",
+      "name": "MLBB_120",
       "url": "https://github.com/leekowen/surge-games/blob/main/icon/MLBB_120.png"
     },
     {
-      "name": "Honor of Kings王者荣耀国际服",
+      "name": "Honor of Kings王者荣耀国际服_120",
       "url": "https://github.com/leekowen/surge-games/blob/main/icon/Honor of Kings王者荣耀国际服_120.png"
     }
   ]
